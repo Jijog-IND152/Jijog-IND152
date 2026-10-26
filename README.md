@@ -41,13 +41,13 @@
 
 ## About
 
-I'm a Computer Science Engineering student in my final year at Stella Mary's College of Engineering, with hands-on industry experience across frontend, full stack, and backend engineering. I approach software as an engineering discipline — writing systems that are maintainable, observable, and built to survive production.
+I'm a Computer Science Engineer, with hands-on industry experience across frontend, full stack, and backend engineering. I approach software as an engineering discipline — writing systems that are maintainable, observable, and built to survive production.
 
 My internship work spans payment gateway integration, production UI development, and Agile delivery. Beyond coursework, I independently design and ship full-stack applications — from marketplace platforms with authentication and real-time data, to Zoho Cliq extensions with OAuth 2.0 and webhook automation.
 
 I care deeply about software architecture, API design, and building engineering products that solve real problems at scale. I am actively pursuing an entry-level software engineering role where I can contribute to production systems and grow within a high-performance engineering team.
 
-**Open To:** `SDE I` · `Full Stack Engineer` · `Java Backend Engineer` · `Frontend Engineer` · `Remote / Hybrid / On-site`
+**Open To:** `SDE I` · `Full Stack Engineer` · `Java Backend Engineer` · `Frontend Engineer` · `DevOps Engineer`
 
 ---
 
